@@ -33,7 +33,7 @@ My pipeline consisted of 6 steps:
 
 - Step 3. Find edges by canny alghorithm
 
-![Canny image][canny]
+![Canny image][canny|width=300px]
 
 - Step 4. Remove all edges out of the region of interest
     NOTE: It's better remove useless edges after the canny algorithm in order to avoid edges caused by the mask of the region of interest
